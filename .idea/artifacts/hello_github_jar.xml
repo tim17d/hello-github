@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hello-github:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hello_github_jar</output-path>
+    <root id="archive" name="hello-github.jar">
+      <element id="module-output" name="hello-github" />
+    </root>
+  </artifact>
+</component>
